@@ -11,25 +11,31 @@ This application uses API calls to find a map in response to a search box.
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
 <ol>
-<li>Build React app, create github repo, launch on Netlify
+<li>Build React app
 </li>
-<li>
+<li>Create github repo
 </li>
-<li>
+<li>Launch on Netlify
 </li>
-<li>
+<li> Obtain and include API key
 </li>
-<li>
+<li>Create dependencies, react-bootstrap, Axios, LocationIQ 
+</li>
+<li>Trello Board 
+https://trello.com/b/my0pEwgG/cityexplorer2022
 </li>
 </ol>
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+This app will utilize React, Bootstrap, JSON Javascript and CSS for its deployment and use.
 
 ## Change Log
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+
+03-21-22 11:00pm - Netlify deployment
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
@@ -55,19 +61,19 @@ Start time: 4:00pm
 Finish time: _____
 
 Actual time needed to complete: _____
+
 ## Tasks
 <ol>
-<li>Create a new repo called city-explorer on GitHub, initialized with no files.</li>
-<li>Use create-react-app to setup a new React application named city-explorer in your local projects directory.</li>
-<li>Connect your GitHub repo to your local repo using the directions on GitHub.</li>
-<li>Convert the README.md file to be documentation regarding your lab and its current state of development. Check the "documentation" section of the lab assignment for more details on how that should look AT MINIMUM.</li>
-<li>Add a .gitignore file with React configurations, including ignoring of .env.</li>
-<li>Create a package.json file with all dependencies and any associated details related to configuration. The dependencies needed for today's lab include: Axios and Bootstrap.</li>
+<li>Create a trello Board https://trello.com/b/my0pEwgG/cityexplorer2022
+</li>
 <li>
-Deploy to Netlify.</li>
+Github
+https://github.com/MISalz/city-explorer
+</li>
 <li>
-Create a PR of your basic React app to your main branch. Thanks to the "Deploy Preview" feature of Netlify, your branch will be deployed so you can see it live, even before you merge it to main. As you work through the lab, push all your work to the same PR, verifying it's working on Netlify as you go.</li>
-<li>Procure a LocationIQ free-tier account. From the Dashboard, navigate to your API Access Tokens page. View, then Update the existing token, to change the label to "City Explorer".</li>
-<li>MOST IMPORTANTLY: Add your deployed Netlify app url as an HTTP Referrer to your API token settings. This step is necessary to prevent any unauthorized use of your token. Also add localhost while testing from your development environment.</li>
-<li>Create an .env file: Your API key goes here for local development. Make sure this file is in your .gitignore.</li>
-<li>Add your API key to your Netlify deployment. Under "Site settings" > "Build & deploy" > "Environment", you need to add "Edit variables" to add your API key, giving it the same name you used in your local .env file.</li></ol>
+Netlify
+https://melodious-pegasus-e702be.netlify.app 
+</li>
+<li>
+WWRC <img src="img/2022-03-17_15-02-19 WRRC_cityExp.bmp">
+</li>

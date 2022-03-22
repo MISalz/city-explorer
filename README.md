@@ -23,7 +23,7 @@ Steps to create App
 <li>Create dependencies, react-bootstrap, Axios, LocationIQ 
 </li>
 <li>Trello Board 
-https://trello.com/b/my0pEwgG/cityexplorer2022
+
 </li>
 </ol>
 
@@ -44,11 +44,35 @@ This app will utilize React, Bootstrap, JSON Javascript and CSS for its deployme
 <li>Trello Board [Trello](https://trello.com/c/MWlosZT8/6-1-set-up-your-react-repository-api-keys)
 </li>
 <li>
-Michael Maker - WRRC diagram
+Michael Maker - Lab06 WRRC diagram
+</li>
+<li>
+Thomas B - Lab06 Code review and WWRC Diagram
 </li>
 <li>
 </li>
-<li>
+</ol>
+
+## Links
+<ol>
+<li> Lucid App 
+https://lucid.app/
+</li>
+<li> Trello Board 
+https://trello.com/b/my0pEwgG/cityexplorer2022
+</li>
+<li> LocationIQ
+https://locationiq.com/
+</li>
+<li> Netlify
+https://www.netlify.com/
+</li>
+<li> Github
+https://github.com/MISalz
+</li>
+<li> 
+</li>
+<li> 
 </li>
 </ol>
 
@@ -79,3 +103,64 @@ https://melodious-pegasus-e702be.netlify.app
 <li>
 WWRC <img src="img/2022-03-17_15-02-19 WRRC_cityExp.bmp">
 </li>
+<li>
+LocationIQ 
+https://locationiq.com/docs
+</li>
+
+---
+
+Name of feature: lab07
+
+Estimate of time needed to complete: 4hr
+
+Start time: 4:00pm
+
+Finish time:  in progress
+
+Actual time needed to complete: _____
+
+## Tasks
+<ol>
+<li> Partner with Thomas for code review and WRRC diagram
+<img src="img/2022-03-22 lab07WWRC_city explore.bmp">
+</li>
+<li> 
+</li>
+</ol>
+
+---
+
+Name of feature: lab08
+
+Estimate of time needed to complete: 4hr
+
+Start time: 4:00pm
+
+Finish time:  in progress
+
+Actual time needed to complete: _____
+
+## Tasks
+<ol>
+<li> 
+</li>
+</ol>
+
+---
+
+Name of feature: lab09
+
+Estimate of time needed to complete: 4hr
+
+Start time: 4:00pm
+
+Finish time:  in progress
+
+Actual time needed to complete: _____
+
+## Tasks
+<ol>
+<li> 
+</li>
+</ol>

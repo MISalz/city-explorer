@@ -10,6 +10,7 @@ This application uses API calls to find a map in response to a search box.
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+Steps to create App
 <ol>
 <li>Build React app
 </li>
@@ -34,7 +35,7 @@ This app will utilize React, Bootstrap, JSON Javascript and CSS for its deployme
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
-
+03-21-22 2:30pm - Collab with Michael Maker WRRC diagram
 03-21-22 11:00pm - Netlify deployment
 
 ## Credit and Collaborations
@@ -43,7 +44,7 @@ This app will utilize React, Bootstrap, JSON Javascript and CSS for its deployme
 <li>Trello Board [Trello](https://trello.com/c/MWlosZT8/6-1-set-up-your-react-repository-api-keys)
 </li>
 <li>
-Netlify
+Michael Maker - WRRC diagram
 </li>
 <li>
 </li>
@@ -55,10 +56,11 @@ Netlify
 
 Name of feature: lab06
 
-Estimate of time needed to complete: 1hr
+Estimate of time needed to complete: 4hr
+
 Start time: 4:00pm
 
-Finish time: _____
+Finish time:  in progress
 
 Actual time needed to complete: _____
 

@@ -23,7 +23,6 @@ Steps to create App
 <li>Create dependencies, react-bootstrap, Axios, LocationIQ 
 </li>
 <li>Trello Board 
-
 </li>
 </ol>
 
@@ -70,8 +69,7 @@ https://www.netlify.com/
 <li> Github
 https://github.com/MISalz
 </li>
-<li> HEROKU 
-https://www.heroku.com/
+<li> HEROKU https://www.heroku.com/
 </li>
 <li> 
 </li>
@@ -100,8 +98,6 @@ Actual time needed to complete: _____
 <li>WWRC <img src="img/2022-03-17_15-02-19 WRRC_cityExp.bmp">
 </li>
 <li> LocationIQ https://locationiq.com/docs
-</li>
-<li> Color Palette https://coolors.co/palette/003049-d62828-f77f00-fcbf49-eae2b7
 </li>
 </ol>
 ---
@@ -139,6 +135,9 @@ Actual time needed to complete: _____
 
 ## Tasks
 <ol>
+<li> WWRC -Ella Svete, Anthony Hill
+<img src ="img/WRRC Lab08.jpeg">
+</li>
 <li> 
 </li>
 </ol>

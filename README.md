@@ -70,7 +70,8 @@ https://www.netlify.com/
 <li> Github
 https://github.com/MISalz
 </li>
-<li> 
+<li> HEROKU 
+https://www.heroku.com/
 </li>
 <li> 
 </li>
@@ -92,22 +93,17 @@ Actual time needed to complete: _____
 <ol>
 <li>Create a trello Board https://trello.com/b/my0pEwgG/cityexplorer2022
 </li>
-<li>
-Github
-https://github.com/MISalz/city-explorer
+<li>Github https://github.com/MISalz/city-explorer
 </li>
-<li>
-Netlify
-https://melodious-pegasus-e702be.netlify.app 
+<li> Netlify https://melodious-pegasus-e702be.netlify.app 
 </li>
-<li>
-WWRC <img src="img/2022-03-17_15-02-19 WRRC_cityExp.bmp">
+<li>WWRC <img src="img/2022-03-17_15-02-19 WRRC_cityExp.bmp">
 </li>
-<li>
-LocationIQ 
-https://locationiq.com/docs
+<li> LocationIQ https://locationiq.com/docs
 </li>
-
+<li> Color Palette https://coolors.co/palette/003049-d62828-f77f00-fcbf49-eae2b7
+</li>
+</ol>
 ---
 
 Name of feature: lab07
@@ -122,7 +118,7 @@ Actual time needed to complete: _____
 
 ## Tasks
 <ol>
-<li> Partner with Thomas for code review and WRRC diagram
+<li>Partner with Thomas for code review and WRRC diagram
 <img src="img/2022-03-22 lab07WWRC_city explore.bmp">
 </li>
 <li> 

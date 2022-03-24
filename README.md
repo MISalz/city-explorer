@@ -83,23 +83,24 @@ Estimate of time needed to complete: 4hr
 
 Start time: 4:00pm
 
-Finish time:  in progress
+Finish time:  complete
 
-Actual time needed to complete: _____
+Actual time needed to complete: 3 days
 
 ## Tasks
 <ol>
-<li>Create a trello Board https://trello.com/b/my0pEwgG/cityexplorer2022
+<li> Create a trello Board https://trello.com/b/my0pEwgG/cityexplorer2022
 </li>
-<li>Github https://github.com/MISalz/city-explorer
+<li> Github https://github.com/MISalz/city-explorer
 </li>
 <li> Netlify https://melodious-pegasus-e702be.netlify.app 
 </li>
-<li>WWRC <img src="img/2022-03-17_15-02-19 WRRC_cityExp.bmp">
+<li> WWRC <img src="img/2022-03-17_15-02-19 WRRC_cityExp.bmp">
 </li>
 <li> LocationIQ https://locationiq.com/docs
 </li>
 </ol>
+
 ---
 
 Name of feature: lab07
@@ -110,11 +111,11 @@ Start time: 4:00pm
 
 Finish time:  in progress
 
-Actual time needed to complete: _____
+Actual time needed to complete: 3days
 
 ## Tasks
 <ol>
-<li>Partner with Thomas for code review and WRRC diagram
+<li> Partner with Thomas Basham for code review and WRRC diagram
 <img src="img/2022-03-22 lab07WWRC_city explore.bmp">
 </li>
 <li> 
@@ -145,6 +146,25 @@ Actual time needed to complete: _____
 ---
 
 Name of feature: lab09
+
+Estimate of time needed to complete: 4hr
+
+Start time: 4:00pm
+
+Finish time:  in progress
+
+Actual time needed to complete: _____
+
+## Tasks
+<ol>
+<li> Partner with Tanesha Brester for code review and WRRC diagram
+<img src="img/WRRC Lab09.jpg">
+</li>
+</ol>
+
+---
+
+Name of feature: lab10
 
 Estimate of time needed to complete: 4hr
 

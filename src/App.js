@@ -1,5 +1,6 @@
 import React from 'react';
 import axios from 'axios';
+import Weather from './Weather'
 import './App.css';
 
 class App extends React.Component {
@@ -59,7 +60,10 @@ class App extends React.Component {
         <ul>
           <p>{`City: ${this.state.searchData.display_name}`}</p>
           <p>{`Lat: ${this.state.searchData.lat} Lon: ${this.state.searchData.lon}`}</p>
-          <img src={`https://maps.locationiq.com/v3/staticmap?key=${process.env.REACT_APP_LOCATIONIQ_API_KEY}&center=${this.state.searchData.lat},${this.state.searchData.lon}&zoom=<zoom>&size=<width>x<height>&format=<format>&maptype=<MapType>&markers=icon:<icon>|${this.state.searchData.lat},${this.state.searchData.lon}&markers=icon:<icon>|${this.state.searchData.lat},${this.state.searchData.lon}`} alt={this.state.searchData} />
+          {/* <Weather>
+
+          </Weather> */}
+          <img src={`https://maps.locationiq.com/v3/staticmap?key=${process.env.REACT_APP_LOCATIONIQ_API_KEY}&center=${this.state.searchData.lat},${this.state.searchData.lon}&zoom=<zoom>&size=<width>x<height>&format=<format>&maptype=<MapType>&markers=icon:<icon>|${this.state.searchData.lat},${this.state.searchData.lon}&markers=icon:<icon>|${this.state.searchData.lat},${this.state.searchData.lon}`} alt={this.state.searchData}/>
         </ul>
         }
         

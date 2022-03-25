@@ -34,8 +34,13 @@ This app will utilize React, Bootstrap, JSON Javascript and CSS for its deployme
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
-03-21-22 2:30pm - Collab with Michael Maker WRRC diagram
 03-21-22 11:00pm - Netlify deployment
+03-21-22 2:30pm - Collab with Michael Maker WRRC diagram
+03-22-22 2:30pm - Collab with Thomas B WRRC diagram
+03-23-22 2:30pm - Collab with Ella Svete, Anthony Hill WRRC diagram
+03-24-22 2:30pm - Collab with Tanesha Brester WRRC diagram
+03-24-22 8:51pm -Heroku deployment
+03-24-22 9:21pm -Weather.js file
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
@@ -69,7 +74,8 @@ https://www.netlify.com/
 <li> Github
 https://github.com/MISalz
 </li>
-<li> HEROKU https://www.heroku.com/
+<li> HEROKU 
+https://dashboard.heroku.com/apps/city-explorerbeapi/deploy/github
 </li>
 <li> 
 </li>

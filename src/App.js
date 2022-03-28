@@ -1,13 +1,13 @@
 import React from 'react';
 import axios from 'axios';
-import Weather from './Weather'
+// import Weather from './Weather'
 import './App.css';
 
 class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      searchData: {},
+      searchData: '',
       error: false,
       errorMessage: ''
     }
@@ -19,7 +19,7 @@ class App extends React.Component {
     //get the data from the API
     let searchData = await axios.get(`https://us1.locationiq.com/v1/search.php?key=${process.env.REACT_APP_LOCATIONIQ_API_KEY}&q=${this.state.city}&format=json`);
     //save that date into state
-    this.setState({ searchData: searchData.data[0]})
+    this.setState({searchData: searchData.data[0]})
     console.log(this.state.searchData)
     }catch(error){
       console.log('error', error)

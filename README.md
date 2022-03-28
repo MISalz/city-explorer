@@ -78,6 +78,10 @@ https://github.com/MISalz
 https://dashboard.heroku.com/apps/city-explorerbeapi/deploy/github
 </li>
 <li> 
+MovieAPI https://www.themoviedb.org/settings/api
+</li>
+<li> 
+WeatherAPI https://www.weatherbit.io/account/create  
 </li>
 </ol>
 
@@ -145,7 +149,9 @@ Actual time needed to complete: _____
 <li> WWRC -Ella Svete, Anthony Hill
 <img src ="img/WRRC Lab08.jpeg">
 </li>
-<li> 
+<li> WeatherAPI https://www.weatherbit.io/account/create
+</li>
+<li> MovieAPI https://www.themoviedb.org/settings/api
 </li>
 </ol>
 
@@ -182,6 +188,8 @@ Actual time needed to complete: _____
 
 ## Tasks
 <ol>
+<li> WRRC -
+<img src="img/WRRC Lab10.jpg">
 <li> 
 </li>
 </ol>
